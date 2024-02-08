@@ -1,5 +1,5 @@
 /*
- * NAME: Tomas Vycas
+ * NAME: Paduru vigna tej reddy
  *
  * ASSIGNMENT GOALS ACHIEVED:
  ∗ Block scan
@@ -13,8 +13,8 @@
  ∗ Full scan with BCAO = 0.76058 msecs
  *
  * MACHINE:
- * CPU - Intel® Core™ i7-8700 CPU @ 3.20GHz × 12
- * GPU - GeForce RTX 2060
+ * CPU - Intel® Core™ i5-10300H CPU @ 4.50GHz × 12
+ * GPU - GeForce GTX 1650
  */
 
 #include <stdio.h>
